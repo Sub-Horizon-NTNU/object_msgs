@@ -1,0 +1,11 @@
+std_msgs/Header header
+float64 position_x
+float64 position_y
+float64 velocity_x
+float64 velocity_y
+float64 acceleration_x
+float64 acceleration_y
+int16 id
+string color
+string type
+

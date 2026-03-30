@@ -15,6 +15,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Boats.msg"
   "msg/Buoy.msg"
   "msg/Buoys.msg"
+  "msg/Object.msg"
   DEPENDENCIES std_msgs
 )
 ament_export_dependencies(rosidl_default_runtime std_msgs)
