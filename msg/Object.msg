@@ -10,4 +10,5 @@ float64 acceleration_y
 int16 id
 string color
 string type
+float64 confidence
 
